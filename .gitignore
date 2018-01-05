@@ -1,0 +1,3 @@
+*.pem
+/tls-proxy
+/tls-proxy.exe
